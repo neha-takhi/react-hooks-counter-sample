@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0"
   }
 }
