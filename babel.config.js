@@ -6,5 +6,6 @@ module.exports = {
         useBuiltIns: "usage",
       },
     ],
+    "@babel/preset-react"
   ],
 };
