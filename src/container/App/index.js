@@ -9,9 +9,9 @@ export default function App() {
 
   return (
     <div>
-      <DecrementButton />
+      <DecrementButton onClick={() => setCount(count - 1)} />
       <Counter value={count} />
-      <IncrementButton />
+      <IncrementButton onClick={() => setCount(count + 1)} />
     </div>
   );
 }
